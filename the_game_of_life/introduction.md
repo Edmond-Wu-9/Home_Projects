@@ -4,7 +4,7 @@ The game of life is a **cellular automaton** created by mathematician John Horto
 
 What is a cellular automaton? It is apparently a discrete system of cells that evolve according to rules based on neighboring states
 
-# #Why do I want to create a simulation of the Game of Life
+## Why do I want to create a simulation of the Game of Life
 
 Idk. Looks cool and I watched a Veritasium Video about it
 
