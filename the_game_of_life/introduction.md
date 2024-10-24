@@ -8,7 +8,7 @@ What is a cellular automaton? It is apparently a discrete system of cells that e
 
 Idk. Looks cool and I watched a Veritasium Video about it
 
-#Rules
+# Rules
 
 ## Structure
 
